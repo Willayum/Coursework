@@ -1,1 +1,1 @@
-Coursework from various courses that incorporate code
+Coursework that incorporate code
